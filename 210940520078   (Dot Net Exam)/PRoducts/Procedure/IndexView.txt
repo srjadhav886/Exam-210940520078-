@@ -1,0 +1,5 @@
+CREATE PROCEDURE [dbo].INDEXVIEW
+	
+AS
+	SELECT * from Products;
+RETURN 0
